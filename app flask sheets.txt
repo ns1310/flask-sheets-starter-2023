@@ -1,3 +1,8 @@
 Client ID: 281496579907-1i95kdp4q7ed4vsct7een4cqk9em5api.apps.googleusercontent.com
 
 Client Secret: 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
+
+
+https://docs.google.com/spreadsheets/d/1zF_u0iJjT7Dvq0P8LKPQlyIjH_OVq-tsBEL5jCeQb0M/edit#gid=638965014
+
+
